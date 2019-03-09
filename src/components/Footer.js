@@ -19,23 +19,23 @@ const Footer = class extends React.Component {
       <footer className="footer">
         <ColoredLine color="#4285f4" />
 
-          <div className="content has-text-centered">
+        <div class="columns">
+          <div class="column is-three-fifths is-offset-one-fifth">
             <h3 className="has-text-weight-bold is-size-2"
                   style={{ marginTop : '40px'}}>
                       Sofyanlabs.
             </h3>
-            <p className="is-size-4">I'm a front-end developer who understands and can actually build web/mobile apps from idea to a scalable product.
-            </p>
-            <div className="wrap"
-            style={{
-              justifyContent: 'center'
-            }}>
+            <h4 className="is-size-4">
+              I'm a front-end developer who understands and can actually build web/mobile apps from idea to a scalable product.
+            </h4>
+            <br />
+            
               <a className="btn" href="https://api.whatsapp.com/send?phone=6281315104352">
                 Contact Me
               </a>
-            </div>
+              
           </div>
-
+        </div>
       </footer>
     )
   }

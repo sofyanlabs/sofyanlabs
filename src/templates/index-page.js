@@ -11,8 +11,7 @@ export const IndexPageTemplate = ({
   title,
   subheading,
 }) => {
-    return (<div>
-      <section>
+    return (
         <div className="container">
           <div className="section">
             <div className="columns">
@@ -21,7 +20,7 @@ export const IndexPageTemplate = ({
 
                   <div className="columns">
                     <div className="column">
-                      <h1 className="has-text-weight-bold is-size-2 is">
+                      <h1 className="has-text-weight-bold is-size-2">
                         {title}
                       </h1>
                       <h3 className="has-text-weight-bold is-size-5">
@@ -52,8 +51,6 @@ export const IndexPageTemplate = ({
               </div>
             </div>
           </div>
-        </div>
-      </section>
     </div>);
   }
 
