@@ -2,7 +2,7 @@
 templateKey: index-page
 title: 'Hello, my name is Ahmad Sofyan'
 image: /img/home-jumbotron.jpg
-heading: Hai! Saya Ahmad Sofyan!
+heading: 'Hello, my name is Ahmad Sofyan'
 subheading: 'I am a Web Designer / Front End Developer living in Depok, Jawa Barat. ID'
 mainpitch:
   title: Why Kaldi
