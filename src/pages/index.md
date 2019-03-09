@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Hai! Perkenalkan saya Ahmad Sofyan
+title: 'Hello, my name is Ahmad Sofyan'
 image: /img/home-jumbotron.jpg
 heading: Hai! Saya Ahmad Sofyan!
-subheading: Frontend Developer
+subheading: 'I am a Web Designer / Front End Developer living in Depok, Jawa Barat. ID'
 mainpitch:
   title: Why Kaldi
   description: >
