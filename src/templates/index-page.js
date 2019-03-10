@@ -23,9 +23,9 @@ export const IndexPageTemplate = ({
                       <h1 className="has-text-weight-bold is-size-2">
                         {title}
                       </h1>
-                      <h3 className="has-text-weight-bold is-size-5">
+                      <p className="subtitle is-size-4">
                         {subheading}
-                      </h3>
+                      </p>
                     </div>
 
                     <div className="column">

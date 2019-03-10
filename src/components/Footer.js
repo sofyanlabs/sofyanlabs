@@ -19,8 +19,8 @@ const Footer = class extends React.Component {
       <footer className="footer">
         <ColoredLine color="#4285f4" />
 
-        <div class="columns">
-          <div class="column is-three-fifths is-offset-one-fifth">
+        <div className="columns">
+          <div className="column is-three-fifths is-offset-one-fifth">
             <h3 className="has-text-weight-bold is-size-2"
                   style={{ marginTop : '40px'}}>
                       Sofyanlabs.
