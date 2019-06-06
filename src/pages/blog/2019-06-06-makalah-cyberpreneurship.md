@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Makalah Cyberpreneurship
 date: 2019-06-06T05:15:43.618Z
-description: 'Selengkapnya dilihat di : https://bit.ly/2IkZAk7'
+description: '-'
 tags:
   - cyberpreneurship makalah
 ---
